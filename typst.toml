@@ -1,0 +1,9 @@
+[package]
+name = "MyCV"
+version = "0.1.0"
+entrypoint = "src/lib.typ"
+authors = ["TuringProblem"]
+license = "MIT"
+description = "Create your resume with ease."
+
+
